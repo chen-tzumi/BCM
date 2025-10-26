@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\chen tsumai\\Desktop\\BCM\\apps\\backend\\logs\\.3dd092c28ee89f26057c09ece04497201ff376ce-audit.json",
+    "files": [
+        {
+            "date": 1759052722591,
+            "name": "C:\\Users\\chen tsumai\\Desktop\\BCM\\apps\\backend\\logs\\application-2025-09-28.log",
+            "hash": "84a9a6515df4c2687c9ac3ca9f6ff1987d7e76680106c10780ae8235b4124a79"
+        },
+        {
+            "date": 1759142800492,
+            "name": "C:\\Users\\chen tsumai\\Desktop\\BCM\\apps\\backend\\logs\\application-2025-09-29.log",
+            "hash": "68cdc5a3f57cde5750383ce52595892bf1c55efc6a7947b9aeb83725c44882e5"
+        },
+        {
+            "date": 1759416737985,
+            "name": "C:\\Users\\chen tsumai\\Desktop\\BCM\\apps\\backend\\logs\\application-2025-10-02.log",
+            "hash": "ee9dec6c284f3d6e8fc253a03d05c8384c95e7e4188fb7b78c09c091bf4fe6dd"
+        }
+    ],
+    "hashType": "sha256"
+}

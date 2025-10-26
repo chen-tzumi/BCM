@@ -1,0 +1,124 @@
+2025-09-28 12:47:16 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:47:16 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:47:27 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:47:27 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:47:27 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:47:27 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:48:39 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:48:39 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:52:08 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:52:08 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Desktop\BCM\node_modules\express\lib\router\layer.js:95:5)
+2025-09-28 12:53:05 error: POST /api/v1/auth/login: Invalid credentials
+Error: Invalid credentials
+    at C:\Users\chen tsumai\Desktop\BCM\apps\backend\src\controllers\auth.ts:126:19
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
